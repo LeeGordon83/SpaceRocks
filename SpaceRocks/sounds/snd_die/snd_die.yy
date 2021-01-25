@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_zap",
-  "duration": 0.0,
+  "soundFile": "snd_die.ogg",
+  "duration": 0.840918,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "snd_zap",
+  "name": "snd_die",
   "tags": [],
   "resourceType": "GMSound",
 }

@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_zap",
-  "duration": 0.0,
+  "soundFile": "msc_song.ogg",
+  "duration": 89.59554,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "snd_zap",
+  "name": "msc_song",
   "tags": [],
   "resourceType": "GMSound",
 }
