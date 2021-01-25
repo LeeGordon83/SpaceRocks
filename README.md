@@ -1,3 +1,3 @@
 # SpaceRocks
 
-A sapce game created in GameMaker studio using GML.
+A space game created in GameMaker studio using GML.
